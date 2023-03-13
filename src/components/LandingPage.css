@@ -1,0 +1,36 @@
+.h1{
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif0;
+      background-repeat: no-repeat;
+      text-align: right;
+      background-size: 20px 50px;
+       background-size: 100% 100%;
+      padding-top: 10px;
+      padding-bottom: 10%;
+      padding-right: 200px;
+      padding-left: 200px;
+      outline-style: auto;
+      font-size: 60px;
+      opacity: 0.8;
+      color: rgba(214, 211, 13, 0.945);
+      font-style: italic;
+      background-image:  url("https://images.squarespace-cdn.com/content/v1/5d794bbb39bf6624d06d8db9/1569370327716-LHISRUAR81JA3NNY8RIN/dog-banner-with-yellow-background-2.png?format=2500w");
+      align-content: space-evenly;
+      display: inline-flex;
+      flex-direction: column;
+   
+ }
+ .buttonpagee{
+   border: none;
+	outline: none;
+   padding: 20px;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif0;
+	border-radius: 50px;
+	color: #000000;
+	background: rgba(212, 209, 24, 0.753);
+   margin-top: 250px;
+   margin-right: 350px;
+	margin-bottom: 20px;
+	box-shadow: 0 3px 20px 0 #0000003b;
+   font-size: 50px;
+   cursor:pointer
+ }

@@ -1,0 +1,26 @@
+.card {
+    
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        transition: 0.3s;
+        position: relative;
+        display: inline-block;
+        margin: 40px;
+        border-radius: 15px;
+        text-align: center;
+        backdrop-filter: blur(20px);
+        width: 40%;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif0;
+        color: rgba(90, 124, 189, 0.925);
+        background: linear-gradient(#bddb11ee,#e5eb88e7,#d1d1d3);
+     
+}
+.imag {
+    margin-top: 20px;
+    width: 400px;
+    height: 300px;
+    border-radius: 15px;
+    margin-bottom: 30px;
+}
+.busc{
+    line-height: 0px
+}

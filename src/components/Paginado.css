@@ -1,0 +1,18 @@
+.buttonpage0 {
+    display: inline;
+    margin-left: 8px ;
+    margin-right: 8px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 10px;
+    height: 50px;
+    text-align: center;
+    font-size: 110%;
+    font-family: serif;
+    color: white;
+    background: #8692fc;
+    border-radius: 4px;
+    border: 1px solid #050141;
+    padding: 5px;
+    cursor: pointer;
+}

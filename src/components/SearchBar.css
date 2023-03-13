@@ -1,0 +1,34 @@
+.buttonpage10 {
+    text-decoration:none;
+    display: center;
+    margin-bottom: 20px;
+    margin-left: 5px;
+    width: 140px;
+    height: 30px;
+    text-align: center;
+    font-size: 100%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif0;
+    color: rgb(0, 0, 0);
+    background: linear-gradient(#bddb11ee,#e5eb88e7,#d1d1d3);
+    border-radius: 20px;
+    border: 1px solid #050141;
+    cursor: pointer
+ }
+
+ .buttonpage9 {
+    text-decoration:none;
+    display: center;
+    margin-bottom: 20px;
+    margin-left: 5px;
+    width: 200px;
+    height: 20px;
+    font-size: 80%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif0;
+    color: rgb(0, 0, 0);
+    background: linear-gradient(#bddb11ee,#e5eb88e7,#d1d1d3);
+    border: 1px solid #050141
+ }
+ .Search{
+   padding-top: 10px;
+   padding-bottom: 5px;
+ }
